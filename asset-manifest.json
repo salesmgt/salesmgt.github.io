@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9274941.chunk.css",
+    "main.js": "/static/js/main.4c615bb6.chunk.js",
+    "main.js.map": "/static/js/main.4c615bb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a67c2f1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a67c2f1.js.map",
+    "static/css/2.da98c186.chunk.css": "/static/css/2.da98c186.chunk.css",
+    "static/js/2.96d728be.chunk.js": "/static/js/2.96d728be.chunk.js",
+    "static/js/2.96d728be.chunk.js.map": "/static/js/2.96d728be.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.da98c186.chunk.css.map": "/static/css/2.da98c186.chunk.css.map",
+    "static/css/main.b9274941.chunk.css.map": "/static/css/main.b9274941.chunk.css.map",
+    "static/js/2.96d728be.chunk.js.LICENSE.txt": "/static/js/2.96d728be.chunk.js.LICENSE.txt",
+    "static/media/autumn.533e02dc.jpg": "/static/media/autumn.533e02dc.jpg",
+    "static/media/AppLayouts.module.scss": "/static/media/logo-major-edu.0f6c111a.png",
+    "static/media/bronze-medal.a6118719.png": "/static/media/bronze-medal.a6118719.png",
+    "static/media/cross-mark.d1c602b1.png": "/static/media/cross-mark.d1c602b1.png",
+    "static/media/doughnut-chart.722df6d0.png": "/static/media/doughnut-chart.722df6d0.png",
+    "static/media/gold-medal.b40d60fb.png": "/static/media/gold-medal.b40d60fb.png",
+    "static/media/medal.b5abfa84.png": "/static/media/medal.b5abfa84.png",
+    "static/media/pawprints.2d582dba.png": "/static/media/pawprints.2d582dba.png",
+    "static/media/silver-medal.90535542.png": "/static/media/silver-medal.90535542.png",
+    "static/media/spring.7443a7bd.jpg": "/static/media/spring.7443a7bd.jpg",
+    "static/media/summer.894e8ba5.jpg": "/static/media/summer.894e8ba5.jpg",
+    "static/media/winter.f47d7b20.jpg": "/static/media/winter.f47d7b20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a67c2f1.js",
+    "static/css/2.da98c186.chunk.css",
+    "static/js/2.96d728be.chunk.js",
+    "static/css/main.b9274941.chunk.css",
+    "static/js/main.4c615bb6.chunk.js"
+  ]
+}

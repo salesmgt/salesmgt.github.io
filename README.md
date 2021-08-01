@@ -1,4 +1,4 @@
-#Sales Management System
+# Sales Management System
 
 ***Account to login***
 * Role ADMIN:
